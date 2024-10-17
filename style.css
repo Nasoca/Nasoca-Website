@@ -107,11 +107,6 @@ section h2 {
     margin: 0 10px;
 }
 
-.donate {
-    background: linear-gradient(to right, #f0f4f8, #f8f9fa);
-    text-align: center;
-}
-
 form {
     max-width: 600px;
     margin: 0 auto;
